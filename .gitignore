@@ -1,0 +1,14 @@
+# models and databases downloaded by score_ORFs (several GB)
+db/
+
+# default output directory
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store

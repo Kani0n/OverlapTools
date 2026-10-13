@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use OverlapTools, please cite it as below."
+title: "OverlapTools"
+abstract: "Pipeline to classify, score and evaluate ORFs that overlap known genes: ORF classification against a genome annotation, gene-likeness scores (Prodigal, Balrog, PGAP, Bakta), taxonomy-restricted tBLASTn homolog search, codon alignments, RNAcode and OLGenie."
+authors:
+  - family-names: "Pürckhauer"
+    given-names: "Korbinian"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/Kani0n/OverlapTools"
+type: software
